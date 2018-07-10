@@ -2,6 +2,7 @@
 layout: post
 title: Unity到Laya的注意事项
 subtitle: 
+description: 最近研究layabox，碰到一些奇怪的问题，记录在此……
 date: 2018-05-21 12:00:00
 author: 丘吉尔
 header-img: "img/in-post/default-bg.jpg"

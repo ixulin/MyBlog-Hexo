@@ -2,6 +2,7 @@
 layout: post
 title: 由SRP说开去
 subtitle: Scriptable Render Pipeline 可编程渲染管线
+description: 在公司内做了一个分享，算是入门渲染管线，于是整理了一下……
 date: 2018-05-21 12:00:00
 author: 自来也
 header-img: "img/in-post/default-bg.jpg"
