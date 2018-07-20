@@ -11,15 +11,14 @@ tags:
 ---
 
 
-# 人物效果及机制列表-第二篇
-
 > 前言：Substance to Unity5，重新梳理了pbr的Shader，简化了Unity的Standard shader，动图有点大，于是重开一个文章来写。  
 > 传送门：[第一篇](/2017/06/05/list-shader-role)[第二篇](/2017/06/27/list-shader-role-2)
+<!-- more -->
 
 ## 基于物理的渲染
 - 以前测试过守望先锋的人物渲染，[文章请戳此处](/2017/03/30/talk-ow-render/)。  
 - 后来为了尝试pbr开发流程，尝试过用PS来做（感谢**@徐利利**同学），只不过因为PS里渲染器与U3D里还是有不少差别的，所以效果不是很好，并且开发流程有些繁琐。再后来发现Substance Painter，于是随便涂了一个。图中右边是我在Substance Painter里瞎图的，只是为了表达材质，然后左边是导出到Unity3d渲染出来的。    
-![img](/img/in-post/list-render-demo/substance-pbr.png)<!-- more -->
+![img](/img/in-post/list-render-demo/substance-pbr.png)
 
 - 去参加Unity大会，发现Substance真的已经不是高端工具了，已经是标配了。替美术感到压力好大。
 

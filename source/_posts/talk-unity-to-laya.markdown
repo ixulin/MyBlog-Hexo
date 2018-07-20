@@ -11,8 +11,6 @@ tags:
 ---
 
 
-# Unity到Laya的注意事项
-
 1. 隐藏物体不支持，会自动显示出来
 2. 莫名的部分tga图片自动转换png出错，API只是报错unsupport format，不明原因，用ps转就ok
 3. 行走面不带renderer会默认添加renderer

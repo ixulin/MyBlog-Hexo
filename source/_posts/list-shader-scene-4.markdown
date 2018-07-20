@@ -11,13 +11,11 @@ tags:
 ---
 
 
-# 场景效果及机制列表
-# 第四篇
 > 前言：因为修改了第一篇文章，添加了新的效果，导致第一篇文章太大，于是把第一篇文章拆开了。  
-    附上传送门：[第一篇](/2017/06/05/list-shader-scene) [第二篇](/2017/06/08/list-shader-scene-2) [第三篇](/2017/06/13/list-shader-scene-3) [第四篇](/2017/06/14/list-shader-scene-4)
+> 附上传送门：[第一篇](/2017/06/05/list-shader-scene) [第二篇](/2017/06/08/list-shader-scene-2) [第三篇](/2017/06/13/list-shader-scene-3) [第四篇](/2017/06/14/list-shader-scene-4)
     
 ## 投影
-- 平面阴影，一种非常便宜的阴影实现方式，网易系游戏大量采用此方法，还能支持点光阴影
+- 平面阴影，一种非常便宜的阴影实现方式，网易系游戏大量采用此方法，还能支持点光阴影<!-- more -->
     ![img](/img/in-post/list-render-demo/planar-shadow.jpg)  
     
     ![img](/img/in-post/list-render-demo/planar-shadow.gif)

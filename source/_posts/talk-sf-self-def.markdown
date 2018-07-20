@@ -11,8 +11,6 @@ tags:
 ---
 
 
-# 自定义Shader Forge节点
-
 ## Shader Forge
 
 自从去年年中开始了解了Shader Forge之后就觉得Shader Forge是神器，倒不是说他提供的各种功能，毕竟如果你不懂原理，用SF（以下简称）也是连不出来的，你必须对shader了解对非常深刻才能在用SF连节点的时候得心应手。

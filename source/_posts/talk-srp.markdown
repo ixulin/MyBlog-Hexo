@@ -11,17 +11,15 @@ tags:
 ---
 
 
-# 由SRP说开去
-
 > 前言：上上周UNITE，上一周开始看SRP，准备给大家分享，正好科普下渲染管线，于是有此文。
 
-## 渲染管线（Render Pineline）
+## 渲染管线（Render Pineline）  <!-- more -->
 
 1. 示意图  
 ![img](/img/in-post/talk-srp/object-render-pipeline.png)
 
 2. OPEN Render Pineline  
-![img](/img/in-post/talk-srp/opengl-pipeline.png)<!-- more -->
+![img](/img/in-post/talk-srp/opengl-pipeline.png)
 
 
 ### A. DrawCall

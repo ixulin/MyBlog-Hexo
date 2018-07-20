@@ -11,7 +11,6 @@ tags:
     - 图形技术
 ---
 
-# 风格化、NPR游戏设计
 > NPR：非写实渲染
 
 ### 1.为什么采用风格化设计？
@@ -23,6 +22,8 @@ tags:
 	* 卡通类游戏更明亮和好玩
 * 在强调游戏视觉特性上更自由
 	* 比如夸张游戏角色特征 
+
+<!-- more -->
 
 > 部分引用自：[Stylized Rendering In Games](https://s3-ap-southeast-1.amazonaws.com/erbuc/files/42add4c2-73f9-4201-b03f-1d637b8a8145.pdf) by Steven Bouma
 

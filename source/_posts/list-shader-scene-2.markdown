@@ -11,14 +11,14 @@ tags:
 ---
 
 
-# 场景效果及机制列表
-# 第二篇
-> 前言：[之前整理过了一篇](/2017/06/05/list-shader-scene)，本来放在那篇文章里，但是gif本来就很大，加载太慢了，于是分开了。    
-    附上传送门：[第一篇](/2017/06/05/list-shader-scene) [第二篇](/2017/06/08/list-shader-scene-2) [第三篇](/2017/06/13/list-shader-scene-3) [第四篇](/2017/06/14/list-shader-scene-4)
+> 前言：[之前整理过了一篇](/2017/06/05/list-shader-scene)，本来放在那篇文章里，但是gif本来就很大，加载太慢了，于是分开了。   
+> 附上传送门：[第一篇](/2017/06/05/list-shader-scene) [第二篇](/2017/06/08/list-shader-scene-2) [第三篇](/2017/06/13/list-shader-scene-3) [第四篇](/2017/06/14/list-shader-scene-4)
+
+<!-- more -->
     
 ## 草
 - 草的交互  
-    ![img](/img/in-post/list-render-demo/grass-interaction.gif)  <!-- more -->
+    ![img](/img/in-post/list-render-demo/grass-interaction.gif)  
     
 - 草被烧着了  
     ![img](/img/in-post/list-render-demo/grass-burn.gif)  

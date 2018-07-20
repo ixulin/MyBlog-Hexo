@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 渲染示例
+title: Shader开发工程示例
 subtitle: 持续填坑中...
 date: 2017-03-06 12:00:00
 author: 米颠
@@ -11,17 +11,16 @@ tags:
 ---
 
 
-# Shader开发工程示例
 > 给内部美术的示例工程，还是图形技术的小学生，继续努力。
 
 ## 基础shader
 > 技术美术科普向
-
+<!-- more -->
 
 - 自发光  
 ![img](https://ixulin.github.io/img/in-post/list-render-demo/jichu/Illumin.jpg)
 - 深度以及深度图  
-![img](https://ixulin.github.io/img/in-post/list-render-demo/jichu/depth.jpg)<!-- more -->
+![img](https://ixulin.github.io/img/in-post/list-render-demo/jichu/depth.jpg)
 - 扭曲效果  
 ![img](https://ixulin.github.io/img/in-post/list-render-demo/jichu/distort.jpg)
 - 冰以及玻璃的模拟  

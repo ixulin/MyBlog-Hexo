@@ -21,11 +21,12 @@ tags:
 > LightMap：光照贴图  
 > HDR：颜色高动态区间，指颜色亮度可以超过1，移动平台暂且不支持。  
 > 间接照明（间接反射）：指光源照亮A物体，A物体变亮以后充当间接光源对近距离内B物体有照亮的作用。这种现象只有当物体B在直接光照（比如阳光）的阴影里才会明显。
+<!-- more -->
 
 
 ## 足够多的明暗对比
 - **适当**打平灯光以增加阴影面积（暗部更多更容易做效果）    
-    ![img](/img/in-post/talk-bake-in-unity/flat-sun-direction.jpg)<!-- more -->
+    ![img](/img/in-post/talk-bake-in-unity/flat-sun-direction.jpg)
     
     
 - **适当**增大模型增加阴影面积（暗部更多更容易做效果）  

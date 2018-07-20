@@ -11,11 +11,10 @@ tags:
 ---
 
 
-# 谈IBL
-
 > 之前在[这里](/2017/03/08/talk-standard/)挖了坑，正好今天没有被项目烦事缠绕，整理完了。主体的思路以及Shader是来自[Marmoset Skyshop](https://www.marmoset.co/skyshop/)，觉得太庞大复杂，简化了一下，采用了Unity内置的Spec Cube，以近似Standard。Marmoset里还扩展了ShaderForge的节点，也很值得学习。
 
 IBL全称是Image Based Lighting，实际上就是做了环境反射，就跟原来反Cubemap做金属效果和水面是一样的，在IBL里稍微不一样的是，为了尽量真实的模拟粗糙表面的环境反射，则需要给Cubemap做一层Blur，在引擎里面为了优化是采用了texCubelod，只需要把Cubemap的lod打开就行了，然后通过Roughness来决定所采lod的层级，这样就可以达到粗糙表面的模糊反射。
+<!-- more -->
 
 ## 与Standard的对比
 大概做了一下对比，如下。左边是IBL实现，Diffuse采用的是Lambert，Specular是Blinnphong。右边是Unity的Standard。

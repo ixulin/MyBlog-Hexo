@@ -11,10 +11,9 @@ tags:
 ---
 
 
-# 场景效果及机制列表
-# 第三篇
+
 > 前言：传送门  
-    [第一篇](/2017/06/05/list-shader-scene) [第二篇](/2017/06/08/list-shader-scene-2) [第三篇](/2017/06/13/list-shader-scene-3) [第四篇](/2017/06/14/list-shader-scene-4)
+> [第一篇](/2017/06/05/list-shader-scene) [第二篇](/2017/06/08/list-shader-scene-2) [第三篇](/2017/06/13/list-shader-scene-3) [第四篇](/2017/06/14/list-shader-scene-4)<!-- more -->
     
 ## 基于高度的地表混合
 地表有多重要就不说了，希望引起重视。
@@ -23,7 +22,7 @@ tags:
     ![img](/img/in-post/list-render-demo/terrain-blend.png)  
     
 - 如果美术能更好的出混合贴图，也就是提高混合贴图的对比度（就是尽量避免出现50%混合的地方），是能够提高一些效果的  
-    ![img](/img/in-post/list-render-demo/terrain-blend-contrast.png)  <!-- more -->
+    ![img](/img/in-post/list-render-demo/terrain-blend-contrast.png)  
     
 - 再就是除了混合图之外，再通过高度图来做一层计算，能达到这个效果  
     ![img](/img/in-post/list-render-demo/terrain-blend-height.png)  

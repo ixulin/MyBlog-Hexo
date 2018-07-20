@@ -10,7 +10,6 @@ tags:
     - 西方艺术
 ---
 
-# 西方艺术-现代绘画
 > 前言：为了去看清华“从莫奈到苏拉热”的展览做功课，正好整理总结一下西方现代绘画。时常都是只言片语，容易忘记不成体系，整理了也算是加强记忆和理解。
 
 现代艺术之父是塞尚，但是从历史上看我觉得，现代艺术可以从印象派开始说起。塞尚其实算后印象派。
@@ -18,15 +17,15 @@ tags:
 ## 库尔贝
 
 ## 印象主义，1870年开始
-说到印象派大家印象最深的自然是莫奈，还有印象·日出。  
+说到印象派大家印象最深的自然是莫奈，还有印象·日出。  <!-- more -->
 
-![img](//img/in-post/list-west-modern-paint/yinxiang-richu.jpeg)
+![img](/img/in-post/list-west-modern-paint/yinxiang-richu.jpeg)
 
 
 但如果要说印象派肯定要提到马奈。毕竟人家是“印象派之父”。首当其冲的是草地上的午餐。这个作品在当时有很强的冲击。  
 就像那会“印象派”是句骂人的话。是被主流所不屑的。
 
-![img](//img/in-post/list-west-modern-paint/caodishangdewucan.jpg)
+![img](/img/in-post/list-west-modern-paint/caodishangdewucan.jpg)
 
 
 然后是我很喜欢的雷诺阿。电影天使艾米丽里那个不能磕碰的画家画的就是雷诺阿的。

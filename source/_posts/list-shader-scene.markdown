@@ -11,15 +11,15 @@ tags:
 ---
 
 
-# 场景效果及机制列表
 > 前言：之前整理过一回，比较乱，重新整理下，也重新做了动图。有些太简单太基础的东西就略过了。以前的文章[请点击此处](/2017/03/06/list-render-demo/)。  
 
 > 二更：更新了地表积水的效果，添加了新的图片效果。于是把阴影拆分出去。  
-    附上传送门：[第一篇](/2017/06/05/list-shader-scene) [第二篇](/2017/06/08/list-shader-scene-2) [第三篇](/2017/06/13/list-shader-scene-3) [第四篇](/2017/06/14/list-shader-scene-4)
+> 附上传送门：[第一篇](/2017/06/05/list-shader-scene) [第二篇](/2017/06/08/list-shader-scene-2) [第三篇](/2017/06/13/list-shader-scene-3) [第四篇](/2017/06/14/list-shader-scene-4)
+
 
 ## 天气
-- 下雪天气效果，重写了之前的积雪shader，做了一些优化，从地面比较低洼的地方开始积雪，另外加了一张躁波让效果更自然  
-    ![img](/img/in-post/list-render-demo/snow.gif)<!-- more -->
+- 下雪天气效果，重写了之前的积雪shader，做了一些优化，从地面比较低洼的地方开始积雪，另外加了一张躁波让效果更自然  <!-- more -->  
+	![img](/img/in-post/list-render-demo/snow.gif)
     
     
 - 下雨地表积水效果，依然是用一张躁波图  
